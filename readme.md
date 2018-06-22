@@ -1,9 +1,9 @@
 ## Project Description:
 In this project I have implement Google Anallytics tracking for my website.
 Steps to be followed to register your web site for Google ANalytics tracking are:
-1)Create a google account
-2) The site should have a domain name. Google Analytics dosen't work if the site dosen't have a domain name.
-3)Register your website on GA poral. Which will generate a GA key and JS code snippet.
+#1)Create a google account
+#2) The site should have a domain name. Google Analytics dosen't work if the site dosen't have a domain name.
+#3)Register your website on GA poral. Which will generate a GA key and JS code snippet.
 eg:
 
 <script>
